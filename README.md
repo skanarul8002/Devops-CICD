@@ -1,4 +1,19 @@
-# Complete Devops CI/CD
-![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/5679cfa1-6e06-4cc6-a548-5a893700aa79)
-![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/4bce15d6-3883-41c3-b13b-988564c669d7)
-
+# Complete Devops CI/CD PIPE-LINE
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/3e926478-7761-4b01-a45f-385fc17906da)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/9ff521f2-4852-443d-89bd-d3c764f13e32)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/b68897e3-2e11-4fed-b452-7054bb8b0a2c)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/40633814-1910-428b-aa3a-a5907c5990c0)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/0a7d6821-90d5-47b5-929e-4771c329249e)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/e3555129-e5c0-4163-a353-fa3f889a4fb9)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/9c6a8374-392d-4060-9c75-92052d0be7ba)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/20f275da-2b0c-4832-b910-703fd671494c)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/1a36565a-c995-4822-8d27-5d0728ce1f18)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/9d7c28af-cd7b-4fd2-af93-9aa163fbf34b)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/f7b2b511-3f4f-449f-b06b-7ff6070d6fb3)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/66aaaebf-bf88-41ef-9e32-20fc1b709e1a)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/fa97294e-38bf-449c-b316-40791f41d054)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/0c02c655-e846-4970-874a-9f1918d73d37)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/d75b53b5-e078-4811-9462-64b8f5d5aa7a)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/d57167bf-8856-40a5-8e4a-49d49f768f3d)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/4f37e6c2-949c-4989-ba99-9ed45c7ca891)
+![image](https://github.com/skanarul8002/Devops-CICD/assets/112712827/16b598f1-b311-4662-968d-eac1251942e7)
