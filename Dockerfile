@@ -1,4 +1,5 @@
-FROM openjdk:8
-EXPOSE 8080
-ADD target/devops-integration.jar devops-integration.jar
-ENTRYPOINT ["java","-jar","/devops-integration.jar"]
+FROM python:3.11
+WORKDIR /app
+COPY . /app
+EXPOSE 8000
+CMD ["python3", "-m", "http.server", "8000"]
